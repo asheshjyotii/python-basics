@@ -1,0 +1,19 @@
+1. Write a script that converts the following strings to lowercase: "An-
+imals", "Badger", "Honey Bee", "Honeybadger". Print each lowercase
+string on a separate line.
+2. Repeat Exercise 1, but convert each string to uppercase instead of
+lowercase.
+3. Write a script that removes whitespace from the following strings:
+string1 = " Filet Mignon"
+string2 = "Brisket "
+string3 = " Cheeseburger "
+Print out the strings with the whitespace removed.
+4. Write a script that prints out the result of .startswith("be") on each
+of the following strings:
+string1 = "Becomes"
+string2 = "becomes"
+string3 = "BEAR"
+string4 = " bEautiful"
+5. Using the same four strings from Exercise 4, write a script that
+uses string methods to alter each string so that .startswith("be")
+returns True for all of them
