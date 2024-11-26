@@ -70,3 +70,16 @@ for index, elements in enumerate(iterable=string,start=1):
     else:
         print(f"string{index} - > False")
 
+# Methods : Starts with and ends with
+string1 = "Anil"
+print(string1.startswith("An")) # True
+print(string1.endswith("il")) # True
+
+# Methods : find()
+string1 = "Do you want burgers?"
+print(string1.find("burger")) # 12
+print(string1[12:]) # burgers?
+
+# Methods : replace ()
+string1 = "This is USA, the world superpower, Im proud to be a citizen of USA"
+print(string1.replace("USA","INDIA"))
