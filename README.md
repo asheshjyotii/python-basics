@@ -6,3 +6,6 @@
 + Slicing
 + String Methods
 + String formating using .format()
+
+## 2. List
++ Joining two lists 
