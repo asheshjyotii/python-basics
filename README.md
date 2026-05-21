@@ -9,3 +9,11 @@
 
 ## 2. List
 + Joining two lists 
+
+## 3. OOPS
++ class
++ objects
++ instance attr
++ class attr
++ instance method
++ class method
